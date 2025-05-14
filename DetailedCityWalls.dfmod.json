@@ -363,7 +363,7 @@
             "Name": "daggerfall expanded textures",
             "IsOptional": false,
             "IsPeer": false,
-            "Version": "0.5.0"
+            "Version": "1.0.0"
         },
         {
             "Name": "unofficial block, location and model fixes",
